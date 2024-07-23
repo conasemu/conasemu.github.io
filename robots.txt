@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://conasemu.github.io/sitemap
+Sitemap: https://conasemu.github.io/app/sitemap
+Sitemap: https://conasemu.github.io/assets/sitemap
+Sitemap: https://conasemu.github.io/css/sitemap
+Sitemap: https://conasemu.github.io/includes/sitemap
+Sitemap: https://conasemu.github.io/item/sitemap
+Sitemap: https://conasemu.github.io/src/sitemap
